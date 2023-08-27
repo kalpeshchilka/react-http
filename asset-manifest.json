@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kalpeshchilka/react-http/static/css/main.e9a55704.css",
-    "main.js": "/kalpeshchilka/react-http/static/js/main.a1ba5ce2.js",
-    "index.html": "/kalpeshchilka/react-http/index.html",
-    "main.e9a55704.css.map": "/kalpeshchilka/react-http/static/css/main.e9a55704.css.map",
-    "main.a1ba5ce2.js.map": "/kalpeshchilka/react-http/static/js/main.a1ba5ce2.js.map"
+    "main.css": "/react-http/static/css/main.e9a55704.css",
+    "main.js": "/react-http/static/js/main.de847a33.js",
+    "index.html": "/react-http/index.html",
+    "main.e9a55704.css.map": "/react-http/static/css/main.e9a55704.css.map",
+    "main.de847a33.js.map": "/react-http/static/js/main.de847a33.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a55704.css",
-    "static/js/main.a1ba5ce2.js"
+    "static/js/main.de847a33.js"
   ]
 }
